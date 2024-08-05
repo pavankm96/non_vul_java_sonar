@@ -22,8 +22,5 @@
         <version>1.2</version>
     </dependency>
 </dependencies>
-  <properties>
-  <sonar.organization>pavankm96</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+  
 </project>
